@@ -34,7 +34,7 @@ class _HomeScreenState extends State<HomeScreen> {
         
       },
       
-      tabs: [
+      tabs:const  [
       GButton(icon: Icons.home,text: "Shop",),
       GButton(icon: Icons.shop_2_sharp,text: "Cart",)
      ],
